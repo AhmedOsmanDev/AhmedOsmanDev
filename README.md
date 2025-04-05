@@ -1,10 +1,8 @@
 <div align="center">
     <img src="GitHub.png" height="200">
-</div>
-<div align="center">
+    <br />
     <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Ahmed;Software+Engineer;Open-Source+Enthusiast">
-</div>
-<div align="center">
+    <br />
     <a href="https://raw.githubusercontent.com/AhmedOsmanDev/AhmedOsmanDev/master/RESUME.pdf"><img src="https://img.shields.io/badge/SWE-RESUME-6FDA44"></a>
     <a href="https://www.upwork.com/freelancers/sweahmedosman"><img src="https://img.shields.io/badge/Upwork-494949?logo=upwork"></a>
     <a href="https://www.linkedin.com/in/AhmedOsmanDev/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin"></a>
@@ -13,10 +11,9 @@
     <a href="https://codeforces.com/profile/AhmedFathyDev"><img src="https://img.shields.io/badge/Codeforces-FFFFFF?logo=codeforces"></a>
     <a href="https://t.me/AhmedOsmanDev"><img src="https://img.shields.io/badge/Telegram-FFFFFF?logo=telegram"></a>
     <a href="https://wa.me/201208731604"><img src="https://img.shields.io/badge/WhatsApp-FFFFFF?logo=whatsapp"></a>
+    <br />
+    <h1>Summary</h1>
 </div>
-
-
-<h1 align="center">Summary</h1>
 
 * **+2 years of experience in web application development using .NET Core Framework.**
 
@@ -38,7 +35,9 @@
 * 🤔 **Currently open to work**: [RESUME](https://raw.githubusercontent.com/AhmedOsmanDev/AhmedFathyDev/main/RESUME.pdf). -->
 
 
-<h1 align="center">Skills</h1>
+<div align="center">
+    <h1>Skills</h1>
+</div>
 
 ```json
 {
@@ -59,14 +58,12 @@
 <div align="center">
     <h1>Contribution Activity</h1>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOsmanDev&theme=dark&date_format=d-m-Y&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" width="500">
-    <br>
+    <br />
     <img src="https://github-readme-stats.vercel.app/api/?username=AhmedOsmanDev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" width="500">
-    <br>
+    <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOsmanDev&layout=donut&theme=dark&title_color=6FDA44" width="500">
-</div>
-<br>
-<br>
-<div align="center">
+    <br />
+    <br />
     <img src="GitHub.gif" height="100">
     <p>Loading...</p>
 </div>
