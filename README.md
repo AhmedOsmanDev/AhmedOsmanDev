@@ -1,7 +1,7 @@
 <div align="center">
     <img src="GitHub.png" height="200">
     <br />
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Ahmed;Software+Engineer;Open-Source+Enthusiast">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Ahmed+mohamed;Software+Engineer;Open-Source+Enthusiast">
     <br />
     <a href="https://raw.githubusercontent.com/AhmedOsmanDev/AhmedOsmanDev/master/RESUME.pdf"><img src="https://img.shields.io/badge/SWE-RESUME-6FDA44"></a>
     <a href="https://www.upwork.com/freelancers/sweahmedosman"><img src="https://img.shields.io/badge/Upwork-494949?logo=upwork"></a>
