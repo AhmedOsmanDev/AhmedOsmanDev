@@ -9,7 +9,7 @@
     <a href="https://leetcode.com/ahmedfathydev/"><img src="https://img.shields.io/badge/LeetCode-070707?logo=leetcode"></a>
     <a href="https://www.hackerrank.com/profile/ahmedfathydev"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
     <a href="https://codeforces.com/profile/AhmedFathyDev"><img src="https://img.shields.io/badge/Codeforces-FFFFFF?logo=codeforces"></a>
-    <a href="https://t.me/AhmedOsmanDev"><img src="https://img.shields.io/badge/Telegram-FFFFFF?logo=telegram"></a>
+    <a href="https://t.me/AhmedFathyDev"><img src="https://img.shields.io/badge/Telegram-FFFFFF?logo=telegram"></a>
     <a href="https://wa.me/201208731604"><img src="https://img.shields.io/badge/WhatsApp-FFFFFF?logo=whatsapp"></a>
     <br />
     <h1>Summary</h1>
