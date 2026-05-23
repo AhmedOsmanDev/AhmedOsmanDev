@@ -15,11 +15,17 @@
     <h1>Summary</h1>
 </div>
 
-* **+2 years of experience in web application development using .NET Core Framework.**
+* **Software Engineer with 3+ years of hands-on experience building scalable, high-quality applications**
 
-* **Proficient in Object-Oriented Programming, Data Structures, Algorithms, Design Patterns, and Problem Solving.**
+* **Strengths lie in object-oriented, data structures, algorithms, and applying design patterns to solve real-world problems efficiently.**
 
-* **Detail-oriented and committed engineer known for on-time delivery of high-quality products. Self-motivated and quick learner.**
+* **Known for being detail-oriented and reliable, delivering clean, maintainable code on time.**
+
+* **Fast learner and a proactive team player who thrives in collaborative environment.**
+
+* **Currently focused on expanding expertise in cloud computing, DevOps, and AI.**
+
+* 🤔 **Currently open to work**: [RESUME](https://raw.githubusercontent.com/AhmedOsmanDev/AhmedOsmanDev/main/RESUME.pdf).
 
 * 👨‍🏫 **Currently studying at**: <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue"></a>
 
@@ -32,7 +38,7 @@
 * 🌱 **Currently learning**: `Object-Oriented`.
 * 💬 **Ask me about**: `.NET`.
 * 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
-* 🤔 **Currently open to work**: [RESUME](https://raw.githubusercontent.com/AhmedOsmanDev/AhmedFathyDev/main/RESUME.pdf). -->
+ -->
 
 
 <div align="center">
@@ -41,16 +47,11 @@
 
 ```json
 {
-    "skills": [
-        "C#",               "Python",           "JavaScript",
-        "Data Structures",  "Algorithms",       "Object-Oriented Programming (OOP)",
-        "Problem Solving",  "Database Systems", "Software Development Life Cycle",
-        ".NET",             "REST API",         "MVC Design Pattern",
-        "SQL Server",       "ADO.NET",          "Entity Framework",
-        "SignalR",          "Authentication",   "Microsoft Azure",
-        "Payment Gateways", "Telegram Bot",     "Unit Testing",
-        "Microservices",    "Git",              "Linux"
-    ]
+    "languages": [C#, Python, SQL, HTML, CSS, JavaScript, C, C++, Bash],
+    "frameworks-and-libraries": [.NET, Angular, REST API, MVC, SignalR, Entity Framework, Dapper, ADO.NET],
+    "databases-and-caching": [SQL Server, MongoDB, NoSQL, Redis, RabbitMQ],
+    "architecture-and-practices": [OOP, Data Structures, Algorithms, Problem Solving, Database Systems, SOLID Principles, Design Patterns, MicroServices, Clean Code, Unit Testing, Authentication],
+    "devops-and-tools": [Docker, Linux, Microsoft Azure, Git]
 }
 ```
 
