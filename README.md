@@ -50,7 +50,13 @@
     "languages": [C#, Python, SQL, HTML, CSS, JavaScript, C, C++, Bash],
     "frameworks-and-libraries": [.NET, Angular, REST API, MVC, SignalR, Entity Framework, Dapper, ADO.NET],
     "databases-and-caching": [SQL Server, MongoDB, NoSQL, Redis, RabbitMQ],
-    "architecture-and-practices": [OOP, Data Structures, Algorithms, Problem Solving, Database Systems, SOLID Principles, Design Patterns, MicroServices, Clean Code, Unit Testing, Authentication],
+    "architecture-and-practices": [
+        OOP, Data Structures, Algorithms,
+        Problem Solving, Database Systems,
+        SOLID Principles, Design Patterns,
+        MicroServices, Clean Code,
+        Unit Testing, Authentication
+    ],
     "devops-and-tools": [Docker, Linux, Microsoft Azure, Git]
 }
 ```
