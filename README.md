@@ -15,7 +15,7 @@
     <h1>Summary</h1>
 </div>
 
-* **Software Engineer with 3+ years of hands-on experience building scalable, high-quality applications**
+* **Software Engineer with +4 years of hands-on experience building scalable, high-quality applications**
 
 * **Strengths lie in object-oriented, data structures, algorithms, and applying design patterns to solve real-world problems efficiently.**
 
